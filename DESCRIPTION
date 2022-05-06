@@ -1,0 +1,11 @@
+Package: psychometricsTNG
+Version: 0.1
+Date: 2020-12-17
+Title: psychometricsTNG
+Description: Package of utilities for the PMS Psychometrics Team
+Author: Dr Daniel Zahra <daniel.zahra@plymouth.ac.uk>
+Maintainer: Dr Daniel Zahra <daniel.zahra@plymouth.ac.uk>
+License: GPL-3
+Imports: ggplot2, emmeans, spatstat
+RoxygenNote: 7.1.2
+Encoding: UTF-8
